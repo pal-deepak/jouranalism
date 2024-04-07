@@ -6,8 +6,9 @@ export default function About() {
             <div className="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                     <div className="md:5/12 lg:w-5/12">
-                        <img className="rounded-full"
-                            src="https://cdn.gencraft.com/prod/user/f7de6e81-e551-4fcc-9954-468b05390169/fc907d98-670f-4f9b-a923-89b5b93c29ba/image/image0_0.jpg?Expires=1710601597&Signature=pJCptIMSjnORloxcvUKRmVpkexBdSS5KXwklLX8G21V2bGJJcsOOBUmpom3mK5QmQv5GLp7DoRmXwSYdGrLuRqyjQOK9s~EYZWyMicpmimNpNK0UOosJsxMfVPjdZJIjMK8~Y3C8-qoZyGUkyHhCcvhEYmDXeOq6hpCaUn1n4-VBul3vVyf1B8QF9jhok5as-29uOLmHBdVVN~9ON0p~fZgmY5JbzWeYIgCBtfFHO63XkmxWfc3FMfGfJdUwDU0QilxhWTJb7Yekbao4EokkCaqO69jnj7CTUP7xkFxLAOGrEKnKlvgLVL7Kb3sKyApbny-WhlTh16QGhUgOD8m~iw__&Key-Pair-Id=K3RDDB1TZ8BHT8"
+                        
+                         <img className=" w-96 h-96 rounded-full"
+                            src="https://media.istockphoto.com/id/1248531076/photo/handsome-male-reporter-in-live-broadcasting-relays-todays-news.jpg?s=1024x1024&w=is&k=20&c=w9vHPdrZhRgTnCMY4xwsaADPyQ2VlI-AgOrqld-p18g="
                             alt="image"
                         />
                     </div>
