@@ -22,7 +22,9 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96 rounded-full" src="https://cdn.gencraft.com/prod/user/f7de6e81-e551-4fcc-9954-468b05390169/07958bc4-37b0-4a85-a6a9-18168b0398a1/image/image1_0.jpg?Expires=1710601477&Signature=J7rGelUyQqhPnIiOk9FJUCkehztAITSPoOwHrWhdBktIleB~dxngxAcZvqjxs0oDlAPoT6afkOyvhe1fQ5yhJz~CKbBdDvlCy0cogPYy4qPklUUlV1DAZuZSGMP9Ka74XIeU2RfB8L2PhS3O1SPoF-DWVEpYGDS~vmCGT8S12q13q5ri2TXkgvb8OBBooLrGTnrSXnYTyWFqFxKUVEWze1hDPFENZfeW8vcdhHJjcOTAC~uvCGt1J8RQR5fEUZj2NaESnKj64a5ixfnpaq5mVlvG84PxY3KesBvJmIhiXq~GwbGbHuF2RaCOXZ8O-NC-pftEbsYDsvOuFtHO3ERznA__&Key-Pair-Id=K3RDDB1TZ8BHT8" alt="image1" />
+                  <img className="w-96 h-96 rounded-full" src="https://media.istockphoto.com/id/1394183500/photo/anchorman-reporting-live-news-in-a-city-at-night-news-coverage-by-professional-handsome.jpg?s=1024x1024&w=is&k=20&c=4d4RfglAvME-qTvB3oZGhM1GjJ2KKjHE2UbvvAYpeec=" alt="image1"  />
+
+{/*                     <img className="w-96 rounded-full" src="https://cdn.gencraft.com/prod/user/f7de6e81-e551-4fcc-9954-468b05390169/07958bc4-37b0-4a85-a6a9-18168b0398a1/image/image1_0.jpg?Expires=1710601477&Signature=J7rGelUyQqhPnIiOk9FJUCkehztAITSPoOwHrWhdBktIleB~dxngxAcZvqjxs0oDlAPoT6afkOyvhe1fQ5yhJz~CKbBdDvlCy0cogPYy4qPklUUlV1DAZuZSGMP9Ka74XIeU2RfB8L2PhS3O1SPoF-DWVEpYGDS~vmCGT8S12q13q5ri2TXkgvb8OBBooLrGTnrSXnYTyWFqFxKUVEWze1hDPFENZfeW8vcdhHJjcOTAC~uvCGt1J8RQR5fEUZj2NaESnKj64a5ixfnpaq5mVlvG84PxY3KesBvJmIhiXq~GwbGbHuF2RaCOXZ8O-NC-pftEbsYDsvOuFtHO3ERznA__&Key-Pair-Id=K3RDDB1TZ8BHT8" alt="image1" /> */}
                     <h1 className="font-bold text-orange-600 ml-28 p-4">Mr Arun singh</h1>
                     
                 </div>
